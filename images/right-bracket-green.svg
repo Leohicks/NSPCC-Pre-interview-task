@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>.a,.b{isolation:isolate;}.b{fill:#12a53e;mix-blend-mode:multiply;}</style>
+  </defs>
+  <g class="a">
+    <path class="b" d="M256.311,346.167h16v16h-6.735V352.9h-9.265Z" transform="translate(-256.311 -346.167)" style="fill: rgb(16, 134, 51);"/>
+  </g>
+</svg>

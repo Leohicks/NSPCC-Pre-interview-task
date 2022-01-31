@@ -330,7 +330,7 @@
 	.banner-container>table {
 	    height: 100%;
 	    width: 100%;
-	    background-image: url("/images/banner-image-1.jpg");
+	    background-image: url("https://github.com/Leohicks/NSPCC-Pre-interview-task/blob/main/images/banner-image-1.jpg?raw=true");
 	    background-size: cover;
 	    background-repeat: no-repeat;
 	    background-position: left 300px top 0;
@@ -338,7 +338,7 @@
 
 	.heading {
 	    width: 80%;
-	    background-image: url("/images/home-banner-overlay.png");
+	    background-image: url("https://raw.githubusercontent.com/Leohicks/NSPCC-Pre-interview-task/main/images/home-banner-overlay.png?token=GHSAT0AAAAAABRD3A7ZLCW3GG3GWMWUNAVGYPYJFWA");
 	    background-size: cover;
 	    background-size: 100% 100%;
 	    background-repeat: no-repeat;
