@@ -459,7 +459,7 @@
 	}
 
 	.bottom-left {
-	    margin-left: -25px;
+	    margin-left: -20%;
 	}
 
 	.video-img-container {
@@ -494,7 +494,6 @@
 	.article-title>p a {
 	    color: rgb(16, 134, 51);
 	    text-decoration: underline;
-	    vertical-align: middle;
 	}
 
 
@@ -514,9 +513,6 @@
 	.article-published p {
 		font-size: 14px;
 		margin: 0;
-		
-		vertical-align: middle;
-
 		text-align: left;
 	}
 
